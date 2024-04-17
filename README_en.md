@@ -25,7 +25,7 @@ The protective artifact of the undead dragon clan in Kongtong Sea is carved with
 # motivation
 In the process of development, occasionally encounter the situation of program crash, need to analyze the cause of crash and locate the code line, and need to analyze environmental factors.
 
-![](img/tianzuo.Kongtong.png)
+![](img_en/tianzuo.Kongtong.png)
 
 # features
 
@@ -40,15 +40,15 @@ In the process of development, occasionally encounter the situation of program c
 
 Visual Studio analyze the dmp file
 
-![](img/screenshot.png)
+![](img_en/screenshot.png)
 
 WinDbg analyze the dmp file
 
-![](img/screenshot2.png)
+![](img_en/screenshot2.png)
 
 **environment log:**
 
-![](img/screenshot3.png)
+![](img_en/screenshot3.png)
 
 ## install
 
@@ -56,15 +56,15 @@ enable exception detection in project
 
 ### Visual Studio
 
-![](img/screenshot4.png)
+![](img_en/screenshot4.png)
 enable c++ exception detection in Visual Studio
 
-![](img/screenshot5.png)
+![](img_en/screenshot5.png)
 enable generation pdb files in Visual Studio
 
 ### Qt Creator
 
-![](img/screenshot6.png)
+![](img_en/screenshot6.png)
 enable generation pdb files in Qt Creator
 
 ```cpp
