@@ -1,9 +1,8 @@
+<h4 align="right">简体中文 | <strong><a href="README_en.md">English</a></strong></h4>
 
 ![](img/logo.png)
 
 ### 天佐.崆峒印
-
-* [English](README_en.md)
 
 ![](https://img.shields.io/badge/release-1.0.0.0-blue.svg)
 ![](https://img.shields.io/badge/date-24.1.1-orange.svg)

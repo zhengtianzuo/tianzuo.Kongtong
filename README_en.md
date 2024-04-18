@@ -1,9 +1,8 @@
+<h4 align="right"><strong><a href="README.md">简体中文</a></strong> | English</h4>
 
 ![](img/logo.png)
 
 ### tianzuo.Kongtong
-
-* [中文](README.md)
 
 ![](https://img.shields.io/badge/release-1.0.0.0-blue.svg)
 ![](https://img.shields.io/badge/date-24.1.1-orange.svg)
