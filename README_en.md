@@ -43,11 +43,11 @@ Visual Studio analyze the dmp file
 
 WinDbg analyze the dmp file
 
-![](img_en/screenshot2.png)
+![](img_en/screenshot3.png)
 
 **environment log:**
 
-![](img_en/screenshot3.png)
+![](img_en/screenshot2.png)
 
 ## install
 
