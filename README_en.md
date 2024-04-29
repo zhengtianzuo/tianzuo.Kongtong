@@ -129,9 +129,9 @@ int main(int argc, char* argv[]) {
 
 ![](img/allinone.png)
 
-||||||
-|--|--|--|--|--|
-|Add QQ Friends|Add WeChat Friends|Paid Questions|WeChat Sponsor|Alipay Sponsor|
+|||||
+|--|--|--|--|
+|Add QQ Friends|Add WeChat Friends|WeChat Sponsor|Alipay Sponsor|
 
 
 
