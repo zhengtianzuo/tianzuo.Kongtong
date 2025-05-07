@@ -3,8 +3,10 @@ tianzuo.Kongtong CHANGES
 
 This is a high-level summary of the most important changes.
 
-tianzuo.Kongtong Releases
-----------------
+2.0.0.0
+-----------
+Code Refactoring
+Windows 11 is supported
 
-tianzuo.Kongtong 1.0.0.0
+1.0.0.0
 -----------
